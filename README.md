@@ -2,6 +2,7 @@
 Tugas ini dibagi menjadi dua bagian. Bagian 1 akan memberi kamu kesempatan untuk menunjukkan keterampilan plot dan visualisasi kamu dan Bagian 2 tentang membuat dan menyesuaikan dashboard.
 
 Bagian 1: Menganalisis aktivitas kebakaran hutan di Australia
+
 Bagian 2: Dashboard untuk menampilkan grafik berdasarkan Wilayah dan Tahun yang dipilih
 
 Deskripsi Data
