@@ -1,15 +1,15 @@
 # Assignment-Part-1-2-Analyzing-wildfire-activities-in-Australia-Data-Visualization-With-Python
 Tugas ini dibagi menjadi dua bagian. Bagian 1 akan memberi kamu kesempatan untuk menunjukkan keterampilan plot dan visualisasi kamu dan Bagian 2 tentang membuat dan menyesuaikan dashboard.
 
-Bagian 1: Menganalisis aktivitas kebakaran hutan di Australia
+**Bagian 1: Menganalisis aktivitas kebakaran hutan di Australia**
 
-Bagian 2: Dashboard untuk menampilkan grafik berdasarkan Wilayah dan Tahun yang dipilih
+**Bagian 2: Dashboard untuk menampilkan grafik berdasarkan Wilayah dan Tahun yang dipilih**
 
-Deskripsi Data
+**Deskripsi Data**
 Dataset kebakaran hutan ini berisi data tentang aktivitas kebakaran di Australia mulai dari tahun 2005. Informasi tambahan dapat ditemukan di sini.
 Dataset ini mencakup variabel-variabel berikut:
 
-Region: 7 wilayah
+**Region: 7 wilayah**
 Date: dalam UTC dan menyediakan data untuk 24 jam ke depan
 Estimated_fire_area: jumlah harian dari perkiraan area kebakaran untuk kebakaran vegetasi yang diperkirakan dengan tingkat kepercayaan > 75% untuk setiap wilayah dalam km²
 Mean_estimated_fire_brightness: rata-rata harian (berdasarkan piksel kebakaran yang ditandai (=jumlah)) dari kecerahan kebakaran yang diperkirakan untuk kebakaran vegetasi yang diperkirakan dengan tingkat kepercayaan > 75% dalam Kelvin
@@ -19,13 +19,12 @@ Std_confidence: deviasi standar dari kekuatan radiasi kebakaran yang diperkiraka
 Var_confidence: Varians dari kekuatan radiasi kebakaran yang diperkirakan dalam megawatt
 Count: jumlah harian dari piksel untuk kebakaran vegetasi yang diperkirakan dengan tingkat kepercayaan lebih dari 75% untuk wilayah tertentu
 Replaced: Menunjukkan dengan "Y" apakah data telah diganti dengan data berkualitas standar ketika tersedia (biasanya dengan penundaan 2-3 bulan). Data yang diganti memiliki kualitas lokasi yang sedikit lebih tinggi.
-Bagian 1: Menganalisis aktivitas kebakaran hutan di Australia
+
+**Bagian 1: Menganalisis aktivitas kebakaran hutan di Australia**
 
 Tujuan:
 Tujuan dari bagian Tugas Praktik ini adalah untuk menganalisis dan memvisualisasikan aktivitas kebakaran hutan di Australia menggunakan dataset yang disediakan. Kamu akan mengeksplorasi pola dan tren, dan membuat visualisasi untuk mendapatkan wawasan tentang perilaku kebakaran hutan di berbagai wilayah di Australia.
-
 Dalam lab ini, kamu akan membuat visualisasi menggunakan Matplotlib, Seaborn, Pandas, dan Folium.
-
 Tugas yang harus dilakukan:
 
 TASK 1.1: Memahami perubahan rata-rata perkiraan area kebakaran dari waktu ke waktu menggunakan pandas untuk membuat grafik garis.
@@ -39,11 +38,10 @@ TASK 1.8: Mengembangkan scatter plot untuk menemukan korelasi antara rata-rata k
 TASK 1.9: Menandai semua tujuh wilayah yang terkena dampak kebakaran hutan, di Peta Australia menggunakan Folium.
 Bagian 2: Dashboard untuk menampilkan grafik berdasarkan Wilayah dan Tahun yang dipilih
 
+**Bagian 2: Dashboard untuk menampilkan grafik berdasarkan Wilayah dan Tahun yang dipilih**
 Tujuan:
 Tujuan dari bagian tugas praktik ini adalah untuk membuat dashboard yang berisi plot dan grafik kamu.
-
 Dalam lab ini, kamu akan membuat dashboard menggunakan Dash dan Plotly dan kemudian menambahkan interaksi pengguna ke dashboard kamu.
-
 Kamu diharuskan membuat dashboard di mana pengguna dapat memilih Wilayah dan Tahun. Berdasarkan pilihan tersebut, dashboard akan menampilkan dua grafik berikut:
 
 Pie Chart tentang Rata-rata Bulanan Perkiraan Area Kebakaran
