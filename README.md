@@ -12,25 +12,25 @@ Dataset ini mencakup variabel-variabel berikut:
 
 **Region: 7 wilayah**
 
-~~~Date: dalam UTC dan menyediakan data untuk 24 jam ke depan
+Date: dalam UTC dan menyediakan data untuk 24 jam ke depan
 
-~~~Estimated_fire_area: jumlah harian dari perkiraan area kebakaran untuk kebakaran vegetasi yang diperkirakan dengan tingkat kepercayaan > 75% untuk setiap wilayah dalam km²
+Estimated_fire_area: jumlah harian dari perkiraan area kebakaran untuk kebakaran vegetasi yang diperkirakan dengan tingkat kepercayaan > 75% untuk setiap wilayah dalam km²
 
-~~~Mean_estimated_fire_brightness: rata-rata harian (berdasarkan piksel kebakaran yang ditandai (=jumlah)) dari kecerahan kebakaran yang diperkirakan untuk kebakaran vegetasi yang diperkirakan dengan tingkat 
+Mean_estimated_fire_brightness: rata-rata harian (berdasarkan piksel kebakaran yang ditandai (=jumlah)) dari kecerahan kebakaran yang diperkirakan untuk kebakaran vegetasi yang diperkirakan dengan tingkat 
 
-~~~kepercayaan > 75% dalam Kelvin
+kepercayaan > 75% dalam Kelvin
 
-~~~Mean_estimated_fire_radiative_power: rata-rata harian dari kekuatan radiasi yang diperkirakan untuk kebakaran vegetasi yang diperkirakan dengan tingkat kepercayaan > 75% untuk wilayah tertentu dalam megawatt
+Mean_estimated_fire_radiative_power: rata-rata harian dari kekuatan radiasi yang diperkirakan untuk kebakaran vegetasi yang diperkirakan dengan tingkat kepercayaan > 75% untuk wilayah tertentu dalam megawatt
 
-~~~Mean_confidence: rata-rata harian dari tingkat kepercayaan untuk kebakaran vegetasi yang diperkirakan dengan tingkat kepercayaan > 75%
+Mean_confidence: rata-rata harian dari tingkat kepercayaan untuk kebakaran vegetasi yang diperkirakan dengan tingkat kepercayaan > 75%
 
-~~~Std_confidence: deviasi standar dari kekuatan radiasi kebakaran yang diperkirakan dalam megawatt
+Std_confidence: deviasi standar dari kekuatan radiasi kebakaran yang diperkirakan dalam megawatt
 
-~~~Var_confidence: Varians dari kekuatan radiasi kebakaran yang diperkirakan dalam megawatt
+Var_confidence: Varians dari kekuatan radiasi kebakaran yang diperkirakan dalam megawatt
 
-~~~Count: jumlah harian dari piksel untuk kebakaran vegetasi yang diperkirakan dengan tingkat kepercayaan lebih dari 75% untuk wilayah tertentu
+Count: jumlah harian dari piksel untuk kebakaran vegetasi yang diperkirakan dengan tingkat kepercayaan lebih dari 75% untuk wilayah tertentu
 
-~~~Replaced: Menunjukkan dengan "Y" apakah data telah diganti dengan data berkualitas standar ketika tersedia (biasanya dengan penundaan 2-3 bulan). Data yang diganti memiliki kualitas lokasi yang sedikit lebih tinggi.
+Replaced: Menunjukkan dengan "Y" apakah data telah diganti dengan data berkualitas standar ketika tersedia (biasanya dengan penundaan 2-3 bulan). Data yang diganti memiliki kualitas lokasi yang sedikit lebih tinggi.
 
 **Bagian 1: Menganalisis aktivitas kebakaran hutan di Australia**
 
